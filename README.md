@@ -1,5 +1,4 @@
 # Scalable Web App with Authentication & Dashboard
-
 This is a solution for the Frontend Developer Intern assignment. It's a full-stack Next.js application featuring a complete authentication system and a CRUD-enabled dashboard for managing notes, built with a premium, modern UI.
 
 ## Features
